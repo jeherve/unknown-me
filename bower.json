@@ -1,19 +1,18 @@
 {
-  "name": "impress-js",
-  "version": "0.5.3",
+  "name": "unknown-me",
+  "version": "1.0",
   "main": "./js/impress.js",
-  "description": "It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com",
-  "homepage": "https://github.com/bartaz/impress.js",
-  "license" : ["http://bartaz.mit-license.org/", "http://www.gnu.org/licenses/"],
-  "main": [
-    "./js/impress.js",
-  ],
+  "description": "A few unknown facts about me, just to break the ice!",
+  "homepage": "http:/jeremyherve.com/",
+  "license" : ["http://www.gnu.org/licenses/gpl.html/"],
   "keywords": [
     "slideshow",
-    "css3"
+    "css3",
+    "personal",
+    "facts"
   ],
   "author": {
-    "name": "Bartek Szopka",
-    "web": "http://bartaz.github.com"
+    "name": "Jeremy Herve",
+    "web": "http:/jeremyherve.com/"
   }
 }
