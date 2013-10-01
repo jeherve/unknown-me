@@ -2,7 +2,7 @@ Unknown me
 ============
 
 A few things you may not know about me -- San Francisco, September 2013
-[http://slides.wpne.ws/unknown-me/](http://slides.wpne.ws/unknown-me/)
+[http://slides.jeremyherve.com/unknown-me/](http://slides.jeremyherve.com/unknown-me/)
 
 See code comments for my presentation notes
 
